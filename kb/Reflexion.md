@@ -13,7 +13,8 @@ In einer Projektreflexion setzt man sich mit dem zurückliegenden Projekt rückb
 
 # Einordnung in den Projektverlauf
 
-Am Ende eines Projektes angelangt, steht meist noch eine entscheidende Aufgabe an, und zwar das ausführliche Reflektieren des gesamten Ablaufs. Genau wie alle anderen Vorgänge davor, ist auch die Reflexion ein ernstzunehmender und unerlässlicher Schritt für einen erfolgreichen Projektmanagement-Prozess.
+Am Ende eines Projektes angelangt, steht meist noch eine entscheidende Aufgabe an, und zwar das ausführliche Reflektieren des gesamten Ablaufs. Genau wie alle anderen Vorgänge davor, ist auch die Reflexion ein ernstzunehmender und unerlässlicher Schritt für einen erfolgreichen Projektmanagement-Prozess.![image](https://user-images.githubusercontent.com/92670636/147158451-4daf9ecb-3c7a-4e8c-93fc-222bc1b34c26.png)
+
 
 Das Überprüfen von messbaren Dingen, im Besonderen die Zielerreichung, ist hierfür ein idealer Startpunkt. Das Projekt wird an den Projektauftraggeber übergeben und von diesem final abgenommen. Anschließend sollte der gesamte Verlauf des Projektes kritisch betrachtet werden. Wo gab es unerwartete Hindernisse? Welche Phasen waren besonders schwierig? Wie lief es zwischenmenschlich und wo kann sich jedes einzelne Projektmitglied verbessern? [^3]
 
